@@ -1,6 +1,7 @@
 # M21CS015
 
-## Shruti Sureshan (Roll no: M21CS015)
+## Shruti Sureshan (Mtech CSE, Roll no: M21CS015)
+
 
 ### Functionality of the application:
 This is a Travel Guide Web Application using Docker, HTML, CSS, JavaScript to help customers book their tours. It connects agents and customers directly. In the traditional system, the customer have to wait in long queues and involves a lot of paperwork. Through this web application, the user can visit the portal, submit their details and then the travel agency can connect with them and book their tours.
