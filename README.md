@@ -25,9 +25,9 @@ The running container can be seen by using the command-
 ```
 docker ps
 ```
-Output:
-CONTAINER ID   IMAGE                COMMAND                  CREATED          STATUS          PORTS                               NAMES
-4a5fc35e5caa   webserver-image:v1   "/docker-entrypoint.…"   13 seconds ago   Up 12 seconds   0.0.0.0:80->80/tcp, :::80->80/tcp   great_hodgkin
+Output:<br>
+CONTAINER ID &emsp;  IMAGE     &emsp;      &emsp;     COMMAND      &emsp;            CREATED   &emsp;       STATUS    &emsp;      PORTS        &emsp;           NAMES<br>
+4a5fc35e5caa   &emsp;webserver-image:v1   &emsp;"/docker-entrypoint.…"   13 seconds ago   Up 12 seconds   0.0.0.0:80->80/tcp, :::80->80/tcp   great_hodgkin
 
 5. Run the application on browser and test the port
 ```
